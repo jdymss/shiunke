@@ -19,7 +19,7 @@ if env("JD_COOKIE"):
 print ("活动入口:https://st.jingxi.com/sns/202103/20/jxhlk/list.html")
 print ("进入活动页面后选择需要砍价的商品，然后运行脚本即可")
 print ("脚本会自动查找CK1下面的砍价商品进行砍价，如有剩余助力次数则会助力作者")
-print ("可以设置为禁用，需要的时候运行即可")
+print ("可以设置为禁用，需要的时候运行即可 更多教程：www.unke.ren")
 
 headers={
     "Host":"m.jingxi.com",
