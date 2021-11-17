@@ -6,7 +6,7 @@
   //回收时间分钟 不填默认3分钟
   "Closetime": "3",
   //网站公告
-  "Announcement": "<link rel=\"stylesheet\" href=\"https://www.aobacore.com/css/style-card.css\"> <div class=\"card\"> <h3>1. 挂京东有什么好处  帮你完成京东各种任务领取京豆 ，红包 ，各种任务。一天在150到300之间多的时候600左右豆子， 京豆买东西抵扣50%，冲手机也可以抵扣，还有很多东西领自己去发现。</h3> <p > <h3>2. 代挂需要什么： 需要你提供京东cookies  只需要你在本站登录你需要代挂的手机号即可</h3> <p > <h3>3.理论说登录一次可以一个月不用在重新登录，为你确保你每天都能挂,请隔几天来本页面看你的账号失效没，为了方便查看请收藏本网址。</h3> <h3> <font color=\"#0000FF\">重要通知：1.这几天本站在升级时常网页会无法访问请不用怕，已经提交的账号正常代挂。本次升级免去手动抓取ck,改为自动获取。<p>2.网页获取验证码比较慢请耐心等待，如果一直没获取到请手动抓去cookie,到下方手动提交处提交。 </font></h3><p> <h3><a class=\"button\" href=\"http://sdjd.unke.ren\" target=\"_blank\">去手动提交</a><p> <h3><a class=\"button\" href=\"http://www.unke.ren/wp-content/uploads/2021/11/1636868123-212919178845a8f.jpg\" target=\"_blank\">扫码关注公众号查询资产收入</a><br>",
+  "Announcement": "公告自定义",
   ///开启打印等待日志卡短信验证登陆 可开启 拿到日志群里回复 默认不要填写
   "Debug": "",
   ///自动滑块次数5次 5次后手动滑块 可设置为0默认手动滑块
@@ -28,7 +28,7 @@
       //服务器名称
       "QLName": "阿里云",
       //青龙地址
-      "QLurl": "http://127.0.0.1:5700",
+      "QLurl": "",
       //青龙2,9 OpenApi Client ID
       "QL_CLIENTID": "",
       //青龙2,9 OpenApi Client Secret
