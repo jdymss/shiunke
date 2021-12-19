@@ -14,9 +14,9 @@ IOS/安卓: 今日头条极速版
 V2P重写：
 [task_local]
 #今日头条极速版
-1-59/15 6-23 * * *  https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js, tag=今日头条极速版, enabled=true
+1-59/15 6-23 * * *  https://github.com/shiunke/Scripts/edit/unke/jrttjsb.js, tag=今日头条极速版, enabled=true
 [rewrite_local]
-luckycat\/lite\/v1\/task\/page_data url script-request-header https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js
+luckycat\/lite\/v1\/task\/page_data url script-request-header https://github.com/shiunke/Scripts/edit/unke/jrttjsb.js
 [MITM]
 #每个人的域名不同，都放进去MITM吧，还捉不到就自行捉包填写
 hostname = *.snssdk.com
