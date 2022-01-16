@@ -6,7 +6,7 @@
   //回收时间分钟 不填默认3分钟
   "Closetime": "5",
   //网站公告
-  "Announcement": "为提高账户的安全性，请关闭免密支付。",
+  "Announcement": "资源交流群：一群414757610 二群827097870",
   //Proxy 支持不带密码的socks5 以及http 
   ///http  Proxy 只需要填写 ip:端口
   /// Socks5 需要填写socks5://ip:端口 不能填写下方账户密码
